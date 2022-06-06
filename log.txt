@@ -1,0 +1,4 @@
+Jun 06, 2022 8:02:21 PM Examen.Main edadMes
+WARNING: Edad: " + edad + ". No se contempla esa edad
+Jun 06, 2022 8:02:51 PM Examen.Main edadMes
+WARNING: Edad: " + edad + ". No se contempla esa edad
